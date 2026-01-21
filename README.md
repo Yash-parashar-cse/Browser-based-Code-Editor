@@ -1,3 +1,4 @@
+
 # 🚀 Live Code Editor - Browser-Based IDE
 
 A lightweight, real-time web development environment built with Vanilla JavaScript and Ace.js. This tool allows users to write HTML, CSS, and JavaScript with an instant live preview.
@@ -13,6 +14,9 @@ A lightweight, real-time web development environment built with Vanilla JavaScri
 - **Frontend:** HTML5, CSS3
 - **Scripting:** JavaScript (ES6+)
 - **Editor Engine:** [Ace Editor](https://ace.c9.io/)
+
+## 🚀 Live Demo
+Check out the live version here: **https://yash-parashar-cse.github.io/Browser-based-Code-Editor/**
 
 ## 📖 How to Use
 1. Clone the repository: `git clone https://github.com/Yash-parashar-cse/Browser-based-Code-Editor.git`
